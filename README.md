@@ -8,6 +8,7 @@
 >  Welcome to the official repository for the paper titled "Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study." This repository contains the necessary code and data to ensure that the research project is transparent and reproducible.  
 
 <h3>Abstract </h3>
+
   * Purpose:  We used a dataset from a higher education institution to compare various machine learning algorithms for predicting student dropout and academic success. Our focus was on algorithms that can handle imbalanced data effectively.
  
   * Design/Methodology/Approach:  To address class imbalance in the dataset, we use the SMOTE resampling method. We apply Decision Tree (DT), Support Vector Machine (SVM), and Random Forest (RF) as well as boosting algorithms like Gradient Boosting (GB), Extreme Gradient Boosting (XGBoost), CatBoost (CB), and Light Gradient Boosting Machine (LB). We apply hyperparameter tuning using Optuna to further optimize the performance of all supervised algorithms. Finally, we apply Isolation Forest (IF) outliers or anomalies in the dataset.
