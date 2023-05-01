@@ -13,7 +13,7 @@
  
   * Design/Methodology/Approach:  To address class imbalance in the dataset, we use the SMOTE resampling method. We apply Decision Tree (DT), Support Vector Machine (SVM), and Random Forest (RF) as well as boosting algorithms like Gradient Boosting (GB), Extreme Gradient Boosting (XGBoost), CatBoost (CB), and Light Gradient Boosting Machine (LB). We apply hyperparameter tuning using Optuna to further optimize the performance of all supervised algorithms. Finally, we apply Isolation Forest (IF) outliers or anomalies in the dataset.
 
-  *  Findings: Boosting algorithms outperformed traditional classification algorithms. LightGBM (LB) performed the best, achieving an F1 score of 88%. However, unsupervised anomaly detection using Isolation Forests did not perform well in identifying outliers from the minority class.
+  *  Findings: Boosting algorithms, specifically LightGBM and CatBoost with Optuna, outperformed traditional classification algorithms. However, the unsupervised anomaly detection using Isolation Forests did not perform well in identifying outliers from the minority class, highlighting potential limitations of this approach.
 
   * Research limitations/implications: Our study is limited to a single dataset, and its generalizability to other settings may be limited.
 
