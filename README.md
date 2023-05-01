@@ -29,7 +29,7 @@
 [Check out](https://nbviewer.org/github/alicevillar/SML-for-Predicting-Student-Dropout-and-Academic-Success_Comparative-Study/blob/6f524664599ae2bf609f612fae41ea337e7d75f8/ml-algorithms-usage-and-prediction.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser. 
 
 
-## 4. Dependencies 
+## Dependencies 
  
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
