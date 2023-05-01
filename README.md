@@ -7,6 +7,7 @@
 
 >  Welcome to the official repository for the paper titled "Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study." This repository contains the necessary code and data to ensure that the research project is transparent and reproducible.  
 
+:arrow_forward: Team : Alice Villar and Carolina de Andrade
 
 ## Abstract 
 
