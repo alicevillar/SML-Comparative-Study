@@ -11,6 +11,15 @@ Research limitations/implications: Our study is limited to a single dataset, and
 Practical implications: The practical implication of this study is that it provides insights into the effectiveness of different machine learning algorithms for predicting student dropout and academic success. 
 Originality/value: This project contributes to the field by benchmarking the performance of various algorithms for predicting student dropout and academic success, which can guide researchers and practitioners in selecting appropriate approaches.
 
+* Purpose:  We used a dataset from a higher education institution to compare various machine learning algorithms for predicting student dropout and academic success. Our focus was on algorithms that can handle imbalanced data effectively.
+* Most Local Cited Sources (from Reference List) 
+* Most globally cited documents   
+* Wordcloud 
+* Word Frequency 
+* Trending Topics 
+* Thematic Evolution 
+
+
 
 <h1>Table of Contents</h1>
 
