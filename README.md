@@ -24,10 +24,10 @@
   * Originality/value: This project contributes to the field by benchmarking the performance of various algorithms for predicting student dropout and academic success, which can guide researchers and practitioners in selecting appropriate approaches.
 
 
-<!-- /TOC -->
+<!--Quick Start  
+[Check out](https://nbviewer.org/github/alicevillar/SML-for-Predicting-Student-Dropout-and-Academic-Success_Comparative-Study/blob/6f524664599ae2bf609f612fae41ea337e7d75f8/ml-algorithms-usage-and-prediction.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.  -->
 
-<## Quick Start  
-[Check out](https://nbviewer.org/github/alicevillar/SML-for-Predicting-Student-Dropout-and-Academic-Success_Comparative-Study/blob/6f524664599ae2bf609f612fae41ea337e7d75f8/ml-algorithms-usage-and-prediction.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.>
+  
  
 
  
