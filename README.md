@@ -15,7 +15,7 @@
 
 ## Contents 
  
-* [Dimensions CSV File]([https://numpy.org/](https://github.com/alicevillar/SML-Comparative-Study/blob/main/Dimensions-Publication-2023-08-21_19-42-09%20-%20Copia.csv)
+* [Dimensions CSV File](https://github.com/alicevillar/SML-Comparative-Study/blob/main/Dimensions-Publication-2023-08-21_19-42-09%20-%20Copia.csv)
 * [CODE](https://github.com/alicevillar/SML-Comparative-Study/blob/main/SML-Code.ipynb)
 * [Values - STAC Platform](https://github.com/alicevillar/SML-Comparative-Study/blob/main/Values_for_STAC_test.csv)
 * [t-test paired results](https://github.com/alicevillar/SML-Comparative-Study/blob/main/statistical_test_t_test_paired.png)
