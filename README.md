@@ -13,13 +13,15 @@
 [Check out](https://nbviewer.org/github/alicevillar/SML-for-Predicting-Student-Dropout-and-Academic-Success_Comparative-Study/blob/6f524664599ae2bf609f612fae41ea337e7d75f8/ml-algorithms-usage-and-prediction.ipynb) a static version of the notebook with Jupyter NBViewer from the comfort of your web browser.  -->
 
 
-## Contents 
- 
- * [Machine Learning - CODE](https://github.com/alicevillar/SML-Comparative-Study/blob/main/SML-Code.ipynb) : This file contains the project's code.
- * [Dimensions CSV File](https://github.com/alicevillar/SML-Comparative-Study/blob/main/Dimensions-Publication-2023-08-21_19-42-09%20-%20Copia.csv) : We downloaded this CSV file from Dimensions on August 21, 2023, for use in our Systematic Literature Review (SLR).
-* [Values - STAC Platform](https://github.com/alicevillar/SML-Comparative-Study/blob/main/Values_for_STAC_test.csv) : This file contains the values employed in our statistical tests on the STAC platform.
-* [t-test paired results](https://github.com/alicevillar/SML-Comparative-Study/blob/main/statistical_test_t_test_paired.png) : This file displays the results of the paired t-test.
+## Project Files
 
+* `SML-Code.ipynb` [SML-Code.ipynb](https://github.com/alicevillar/SML-Comparative-Study/blob/main/SML-Code.ipynb) - This file contains the project's code.
+* `Dimensions CSV File` [Dimensions-Publication-2023-08-21_19-42-09 - Copia.csv](https://github.com/alicevillar/SML-Comparative-Study/blob/main/Dimensions-Publication-2023-08-21_19-42-09%20-%20Copia.csv)- We downloaded this CSV file from Dimensions on August 21, 2023, for use in our Systematic Literature Review (SLR).
+* `Values_for_STAC_test.csv` [Values_for_STAC_test.csv](https://github.com/alicevillar/SML-Comparative-Study/blob/main/SML-Code.ipynb) - This file contains the values employed in our statistical tests on the STAC platform.
+* `statistical_test_t_test_paired.png` [statistical_test_t_test_paired.png](https://github.com/alicevillar/SML-Comparative-Study/blob/main/statistical_test_t_test_paired.png) - This file displays the results of the paired t-test.
+
+   
+  
 ### Useful Links
   
   * [Dimensions Academic Database](https://app.dimensions.ai/discover/publication)
