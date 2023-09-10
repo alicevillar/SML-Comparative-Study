@@ -18,7 +18,7 @@
 * `SML-Code.ipynb` [Machine Learning code](https://github.com/alicevillar/SML-Comparative-Study/blob/main/SML-Code.ipynb) - This file contains the project's code.
 * `Dimensions CSV File` [Dimensions file](https://github.com/alicevillar/SML-Comparative-Study/blob/main/Dimensions-Publication-2023-08-21_19-42-09%20-%20Copia.csv)- We downloaded this CSV file from Dimensions on August 21, 2023, for use in our Systematic Literature Review (SLR).
 * `Values_for_STAC_test.csv` [Values for STAC](https://github.com/alicevillar/SML-Comparative-Study/blob/main/SML-Code.ipynb) - This file contains the values employed in our statistical tests on the STAC platform.
-* `statistical_test_t_test_paired.png` [t-test paired - results](https://github.com/alicevillar/SML-Comparative-Study/blob/main/statistical_test_t_test_paired.png) - This file displays the results of the paired t-test.
+* `statistical_test_t_test_paired.png` [t-test paired](https://github.com/alicevillar/SML-Comparative-Study/blob/main/statistical_test_t_test_paired.png) - This file displays the results of the paired t-test.
 
    
   
