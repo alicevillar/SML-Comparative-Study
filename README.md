@@ -5,7 +5,7 @@
  <br> 
  
 
->  Bem-vindo(a) ao repositório oficial da palestra "Choque Séptico – Um Desafio no Atendimento Médico". Este espaço foi criado para disponibilizar todos os materiais visuais de apoio utilizados durante a apresentação, garantindo que você possa revisar e aprofundar seu conhecimento sobre um dos maiores desafios da medicina intensiva.
+> Welcome to the official repository for the paper titled "Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study." This repository contains the necessary code and data to ensure that the research project is transparent and reproducible.  
 
 
 
